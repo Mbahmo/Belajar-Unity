@@ -50,6 +50,7 @@
      <Compile Include="Assets\Scripts\DataType.cs" />
      <Compile Include="Assets\Scripts\KeyboardInput.cs" />
      <Compile Include="Assets\Scripts\LooperFunction.cs" />
+     <Compile Include="Assets\Scripts\MouseInput.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
