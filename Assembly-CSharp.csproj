@@ -46,10 +46,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Array.cs" />
-     <Compile Include="Assets\DataType.cs" />
-     <Compile Include="Assets\LooperFunction.cs" />
-     <Compile Include="Assets\Script.cs" />
+     <Compile Include="Assets\Scripts\Array.cs" />
+     <Compile Include="Assets\Scripts\DataType.cs" />
+     <Compile Include="Assets\Scripts\KeyboardInput.cs" />
+     <Compile Include="Assets\Scripts\LooperFunction.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
