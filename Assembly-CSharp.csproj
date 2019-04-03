@@ -48,6 +48,7 @@
   <ItemGroup>
      <Compile Include="Assets\Array.cs" />
      <Compile Include="Assets\DataType.cs" />
+     <Compile Include="Assets\LooperFunction.cs" />
      <Compile Include="Assets\Script.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
